@@ -1,4 +1,13 @@
 # CHANGELOG.md
+## v0.0.2
+Fixes:
+ - None
+
+Features:
+ - None 
+ 
+Various:
+ - Testing GitHub actions
 
 ## v0.0.1
 Fixes:
